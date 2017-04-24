@@ -1,0 +1,5 @@
+div#sessions p{display:none;}
+
+div#sessions p.session1:target {display:block;}
+div#sessions p.session2:target {display:block;}
+div#sessions p.session3:target {display:block;}
